@@ -8,4 +8,4 @@ This a desktop app which calculates the CGPA, this app can be used by VTU studen
 
 3) After installing, the first column refers to Σ(Cᵢ x Gⱼ) that means you need to enter the product of credits earned and grade points, the second column refers to the credits earned in that semester.
 
-4) For example if you want to calculate the cgpa until the fifth semester means, you need to fill 0 to rest of the semester fields/
+4) For example if you want to calculate the cgpa until the fifth semester means, you need to fill 0 to rest of the semester fields.
